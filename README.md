@@ -21,7 +21,7 @@ To install all dependencies, you can run:
     pip install rasterio numpy matplotlib geopy
 
 To install in Conda env: 
-```bash
+
     conda install rasterio numpy matplotlib geopy
     conda install jupyter notebook
 
