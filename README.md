@@ -18,11 +18,11 @@ Features
 
 To install all dependencies, you can run:
 
-pip install rasterio numpy matplotlib geopy
+    pip install rasterio numpy matplotlib geopy
 
 To install in Conda env: 
-conda install rasterio numpy matplotlib geopy
-conda install jupyter notebook
+    conda install rasterio numpy matplotlib geopy
+    conda install jupyter notebook
 
 ## Download DEM
 **Link:** 
