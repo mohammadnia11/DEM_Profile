@@ -9,7 +9,7 @@ Features
     Generate elevation profiles between two geographic coordinates
     Compute geodesic distance between two points
 
-##Dependencies
+## Dependencies
 
     rasterio: For reading raster files (.tif files)
     numpy: For numerical operations
@@ -23,8 +23,8 @@ bash
 pip install rasterio numpy matplotlib geopy
 
 
-##Download DEM
-Link: 
+## Download DEM
+**Link:** 
 https://appeears.earthdatacloud.nasa.gov/task/area
 
 Navigate to the folder containing the dem_analysis_tool.py file.
@@ -40,6 +40,3 @@ bash
 Contributing
 
 Feel free to fork the repository, create a pull request, or submit issues and feature requests.
-License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
