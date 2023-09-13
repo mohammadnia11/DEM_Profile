@@ -10,7 +10,7 @@ Features
     Compute geodesic distance between two points
 
 ## Dependencies
-```bash
+
     rasterio: For reading raster files (.tif files)
     numpy: For numerical operations
     matplotlib: For plotting and visualization
