@@ -1,4 +1,4 @@
-Introduction
+**Introduction**
 
 This project provides a Python-based tool for analyzing Digital Elevation Models (DEMs). It reads DEM data from a .tif file, displays the elevation model using a 2D plot, and allows users to input two geographic coordinates (latitude and longitude). The tool then computes an elevation profile between the two points and plots it.
 Features
@@ -9,7 +9,7 @@ Features
     Generate elevation profiles between two geographic coordinates
     Compute geodesic distance between two points
 
-Dependencies
+**Dependencies**
 
     rasterio: For reading raster files (.tif files)
     numpy: For numerical operations
@@ -23,7 +23,7 @@ bash
 pip install rasterio numpy matplotlib geopy
 
 
-Download DEM 
+**Download DEM**
 Link: 
 https://appeears.earthdatacloud.nasa.gov/task/area
 
