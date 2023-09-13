@@ -1,4 +1,4 @@
-##Introduction
+#Introduction
 
 This project provides a Python-based tool for analyzing Digital Elevation Models (DEMs). It reads DEM data from a .tif file, displays the elevation model using a 2D plot, and allows users to input two geographic coordinates (latitude and longitude). The tool then computes an elevation profile between the two points and plots it.
 Features
