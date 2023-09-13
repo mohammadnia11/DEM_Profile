@@ -22,13 +22,6 @@ bash
 
 pip install rasterio numpy matplotlib geopy
 
-Usage
-
-    Clone the repository:
-
-    bash
-
-git clone https://github.com/your_username/DEM_Analysis_Tool.git
 
 Download DEM 
 Link: 
