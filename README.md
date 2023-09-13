@@ -10,7 +10,7 @@ Features
     Compute geodesic distance between two points
 
 ## Dependencies
-
+```bash
     rasterio: For reading raster files (.tif files)
     numpy: For numerical operations
     matplotlib: For plotting and visualization
@@ -21,6 +21,7 @@ To install all dependencies, you can run:
     pip install rasterio numpy matplotlib geopy
 
 To install in Conda env: 
+```bash
     conda install rasterio numpy matplotlib geopy
     conda install jupyter notebook
 
