@@ -31,7 +31,7 @@ https://appeears.earthdatacloud.nasa.gov/task/area
 
 Navigate to the folder containing the dem_analysis_tool.py file.
 
-Run the Python script:
+## Run the Python script:
 
     python dem_analysis_tool.py
 
