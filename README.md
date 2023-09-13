@@ -18,8 +18,6 @@ Features
 
 To install all dependencies, you can run:
 
-bash
-
 pip install rasterio numpy matplotlib geopy
 
 
