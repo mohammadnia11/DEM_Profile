@@ -20,6 +20,9 @@ To install all dependencies, you can run:
 
 pip install rasterio numpy matplotlib geopy
 
+To install in Conda env: 
+conda install rasterio numpy matplotlib geopy
+conda install jupyter notebook
 
 ## Download DEM
 **Link:** 
@@ -28,8 +31,6 @@ https://appeears.earthdatacloud.nasa.gov/task/area
 Navigate to the folder containing the dem_analysis_tool.py file.
 
 Run the Python script:
-
-bash
 
     python dem_analysis_tool.py
 
