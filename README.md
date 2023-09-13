@@ -30,6 +30,10 @@ Usage
 
 git clone https://github.com/your_username/DEM_Analysis_Tool.git
 
+Download DEM 
+Link: 
+https://appeears.earthdatacloud.nasa.gov/task/area
+
 Navigate to the folder containing the dem_analysis_tool.py file.
 
 Run the Python script:
